@@ -1,0 +1,9 @@
+§2§lGetting Water
+
+Soon enough you will want to start to build ovens, smelteries, and other things that require clay.  You can obtain clay by placing dust from Ex Nihilo into a barrel filled with water.
+
+You can place a barrel with the top open to the sky and wait for rain to fill your barrels, or you can use a nice little trick to get those barrels filled and not have to wait for rain.
+We have all been there, the skyblock map in a desert biome.  BUT IT NEVER RAINS HERE!
+
+Not to worry.  From a single water source block you can fill glass bottles, and 4 of these will fill a barrel with water. (And yes: 33.3% x3 is only 99.9% so it takes 4)
+{"image": "water.png", "scale":-4}

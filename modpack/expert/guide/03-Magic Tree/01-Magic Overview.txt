@@ -1,0 +1,13 @@
+§2§lMagic Overview
+
+Magic works slightly differently than the tech side of things.  You will find you have to progress in all schools of magic simultaneously.
+
+Many recipe changes on the magic side require items from other magic schools.
+
+Magical resource gathering can be a little difficult at first.  For instance, obtaining Thaumcraft shards.
+The Ex Atris Thaumcraft tab in the Thaumonomicon can be of great assistance.
+
+{"image":"shards.png", "scale":-3}
+
+So lets get started!
+

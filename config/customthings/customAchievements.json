@@ -1,0 +1,191 @@
+{"data":
+	[
+		{
+			"name": "bucket",
+			"page": "Skyblock",
+			"x": -3,
+			"y": -1,
+			"source": "CRAFTING",
+			"required": "minecraft:bucket",
+			"displayItem": "minecraft:bucket",
+			"reward": "ftbtrophies:trophy;14",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "watering",
+			"page": "Skyblock",
+			"x": -3,
+			"y": 2,
+			"source": "CRAFTING",
+			"required": "ExtraUtilities:watering_can;1",
+			"displayItem": "ExtraUtilities:watering_can",
+			"reward": "ftbtrophies:trophy;15",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "ae2",
+			"page": "Skyblock",
+			"x": 0,
+			"y": 0,
+			"source": "CRAFTING",
+			"required": "appliedenergistics2:item.ToolCertusQuartzWrench",
+			"displayItem": "appliedenergistics2:item.ToolCertusQuartzWrench",
+			"reward": "ftbtrophies:trophy;2",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "botania",
+			"page": "Skyblock",
+			"x": 1,
+			"y": -2,
+			"source": "CRAFTING",
+			"required": "Botania:alfheimPortal",
+			"displayItem": "Botania:alfheimPortal",
+			"reward": "ftbtrophies:trophy;10",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "creativecell",
+			"page": "Skyblock",
+			"x": 3,
+			"y": -1,
+			"source": "CRAFTING",
+			"required": "ThermalExpansion:Cell;0",
+			"displayItem": "ThermalExpansion:Cell;0",
+			"reward": "ftbtrophies:trophy;6",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "angelring",
+			"page": "Skyblock",
+			"x": -2,
+			"y": 2,
+			"source": "CRAFTING",
+			"required": "ExtraUtilities:angelRing",
+			"displayItem": "ExtraUtilities:angelRing",
+			"reward": "ftbtrophies:trophy;17",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "creativetank",
+			"page": "Skyblock",
+			"x": 4,
+			"y": -1,
+			"source": "CRAFTING",
+			"required": "ThermalExpansion:Tank;0",
+			"displayItem": "ThermalExpansion:Tank;0",
+			"reward": "ftbtrophies:trophy;5",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "creativepool",
+			"page": "Skyblock",
+			"x": 5,
+			"y": -1,
+			"source": "ITEM_PICKUP",
+			"required": "Botania:pool;1",
+			"displayItem": "Botania:pool;1",
+			"reward": "ftbtrophies:trophy;11",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "solar",
+			"page": "Skyblock",
+			"x": 0,
+			"y": 2,
+			"source": "CRAFTING",
+			"required": "SolarExpansion:solarPanelUltimate",
+			"displayItem": "SolarExpansion:solarPanelUltimate",
+			"reward": "ftbtrophies:trophy;16",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "bees",
+			"page": "Skyblock",
+			"x": -1,
+			"y": 2,
+			"source": "CRAFTING",
+			"required": "gendustry:IndustrialApiary",
+			"displayItem": "gendustry:IndustrialApiary",
+			"reward": "ftbtrophies:trophy;12",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "ic2",
+			"page": "Skyblock",
+			"x": -1,
+			"y": 0,
+			"source": "CRAFTING",
+			"required": "IC2:itemPlutonium",
+			"displayItem": "IC2:itemPlutonium",
+			"reward": "ftbtrophies:trophy;4",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "thermal",
+			"page": "Skyblock",
+			"x": -2,
+			"y": 0,
+			"source": "CRAFTING",
+			"required": "ThermalExpansion:Machine;3",
+			"displayItem": "ThermalExpansion:Machine;3",
+			"reward": "ftbtrophies:trophy;3",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "draconic",
+			"page": "Skyblock",
+			"x": 2,
+			"y": -1,
+			"source": "CRAFTING",
+			"required": "DraconicEvolution:draconicChest",
+			"displayItem": "DraconicEvolution:draconicChest",
+			"reward": "ftbtrophies:trophy;7",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "thaumcraft",
+			"page": "Skyblock",
+			"x": 0,
+			"y": -2,
+			"source": "ITEM_PICKUP",
+			"required": "Thaumcraft:blockStoneDevice;2",
+			"displayItem": "Thaumcraft:blockStoneDevice;2",
+			"reward": "ftbtrophies:trophy;1",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "blood",
+			"page": "Skyblock",
+			"x": -2,
+			"y": -2,
+			"source": "ITEM_PICKUP",
+			"required": "AWWayofTime:energySword",
+			"displayItem": "AWWayofTime:energySword",
+			"reward": "ftbtrophies:trophy;8",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "witchery",
+			"page": "Skyblock",
+			"x": -1,
+			"y": -2,
+			"source": "ITEM_PICKUP",
+			"required": "witchery:ingredient;11",
+			"displayItem": "witchery:ingredient;11",
+			"reward": "ftbtrophies:trophy;9",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		},
+		{
+			"name": "final",
+			"page": "Skyblock",
+			"x": 3,
+			"y": 1,
+			"source": "ACHIEVEMENT_PAGE",
+			"required": "Skyblock",
+			"displayItem": "ftbtrophies:trophy;13",
+			"reward": "ftbtrophies:trophy;13",
+			"rewardNBT": "{time:%TIMESTAMP%, achid:%ACHIEVEMENT_ID%, achname:%ACHIEVEMENT_NAME%, user:%USER_NAME%, uuid:%USER_UUID%}"
+		}
+	]
+}

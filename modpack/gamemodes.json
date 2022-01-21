@@ -1,0 +1,7 @@
+{
+  "modes": [
+    "expert"
+  ],
+  "default": "expert",
+  "common": "common"
+}

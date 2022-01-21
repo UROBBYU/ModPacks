@@ -1,0 +1,7 @@
+§2§lMob Farms
+
+Your Y level is very important when creating mobfarms.  For instance under Y-64 bats will spawn.
+Over Y-64 squids will not spawn in water.
+
+Some things to keep in mind.
+

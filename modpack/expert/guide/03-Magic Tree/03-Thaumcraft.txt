@@ -1,0 +1,35 @@
+§2§lThaumcraft
+
+The basics of the beginning game of Thaumcraft remain largely unchanged.  So at this point you should go gather all of you aspects and unlock at least the basic tiers of Thaumcraft research.
+
+To progress down the magic tree there are a few things you will need.  Starting with the Thaumcraft table.
+At first glance, it may seem difficult to get the greatwood needed for your tables however that is why we started with Botania mana.
+
+Greatwood Planks:
+
+{"image":"greatwood.png", "scale":-3}
+
+Now you will be able to make that table required for researching and crafting:
+
+{"image":"table.png", "scale":-3}
+
+Now on to the wands,  we will start with the basic iron capped wands:
+
+{"image":"wand.png", "scale":-3}
+
+But you will soon want to get the golden capped wand through research and a bit of vis:
+
+{"image":"goldenwand.png", "scale":-3}
+
+Once that is filled you will want to get some basics that will be needed in the other magic mods.  Primarily the Arcane Stone.  You will be needing quite a bit of this:
+
+{"image":"arcanestone.png", "scale":-3}
+
+Also may be a good idea to get a few items needed to get started in witchery.
+
+3x Alchemical Furnace, a fire crystal cluster, and a few fire charges:
+
+{"image":"afurnace.png", "scale":-3}
+{"image":"firecharge.png", "scale":-3}
+
+You can grab yourself a few goodies from Thaumcraft if you want at this point, but now it's time to get our Witchery in order.

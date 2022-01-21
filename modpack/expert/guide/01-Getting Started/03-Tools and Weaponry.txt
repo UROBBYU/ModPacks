@@ -1,0 +1,18 @@
+§2§lTools and Weaponry
+
+§4Tinkers
+
+Tinkers' Iguana Tweaks has been added to Infinity Skyblock, so now you can level up and have the single tool for your adventure.  There are also some special modifiers for skyblock.
+
+{"image":"hammered.png", "scale":-4}
+By adding a diamond hammer to a tinker's tool you can obtain the Hammered modifier, allowing you to use tinker's tools to break down items the same way a hammer does.
+
+§2Note: ExtraTiC has been removed from the pack, so the over powered crossbows and tools will not be an option this time around.
+§2Note: the Tool Forge recipe has been changed to be much farther down the line in progression, so you will have to use the basic tools for now.
+
+§4ExCompressum
+
+ExCompressum adds a variety of tools, in a compressed form, that allows you to breakdown and process compressed blocks (cobble, gravel, etc.)
+{"image":"compressedhammer.png", "scale":-4}
+{"image":"heavysieve.png", "scale":-4}
+Later down the line, there are also automatic versions of the same machines.

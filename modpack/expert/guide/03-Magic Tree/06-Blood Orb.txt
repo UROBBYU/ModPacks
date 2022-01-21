@@ -1,0 +1,34 @@
+§2§lApprentice Blood Orb
+
+Getting to the next tier of orb takes a few steps in different magic schools to complete
+First we will want to get our Witchery Alter setup, and start planting well... plants to get that up to at least 2800 magic power.
+Placing skulls on the alter will also increase the magic power.
+
+{"image":"altar.png", "scale":-3}
+
+We will also need a distillery for this stage of the process:
+
+{"image":"distillery.png", "scale":-3}
+
+Our goal is to get the golden chalk.  Follow these recipes to get all the ingredients.  and remember that the distiller and golden chalk recipe will require alter power.
+If you haven't gotten each of the trees in witchery from mutandis at this point, you may want to do that for some of these recipes.
+
+{"image":"gypsum.png", "scale":-3}
+{"image":"chalk.png", "scale":-3}
+{"image":"goldenchalk.png", "scale":-3}
+
+Then with a bit of Thaumcraft:
+
+{"image":"balanced.png", "scale":-3}
+{"image":"mundis.png", "scale":-3}
+
+We can then make our Alchemy Catalyst in Botania:
+
+{"image":"alchemy.png", "scale":-3}
+
+Which in turn will allow us to make our prismatine required for the apprentice blood orb:
+
+{"image":"pris.png", "scale":-3}
+{"image":"bloodorb2.png", "scale":-3}
+
+Now we are well on our way to a larger blood altar.

@@ -1,0 +1,30 @@
+§2§lResource Gathering
+
+Your first resources will come from sifting, so after you have the cobblegen setup, you will want to get the sifter from Ex Nihilo.
+
+If you are new to Ex Nihilo read on, if you know what you are doing then you can skip this part.
+
+To get the sifter you will need to gather string.
+In order to gather string you will need to obtain a silk worm to convert leaves into infested leaves.
+To get the worm you need to make a crook
+{"image": "crook.png", "scale":-4}
+
+Use the crook on the leaves to get a silk worm, then "plant" them in some leaves to have the leaves change.
+
+Then use the crook on the leaves to get string.
+{"image": "infested.png", "scale":-4}
+
+Once you have enough string you can then craft a sieve.
+{"image": "sieve.png", "scale":-4}
+
+By sieving or sifting different items (gravel, sand, etc) you will obtain different resources.  The broken varieties can be combined and then cooked to get resources.
+{"image": "broken.png", "scale":-4}
+
+NEI will show all the possible outcomes when sieving so if you cannot find a particular item, try searching NEI to see what you need to sift to get that item.
+{"image": "drops.png", "scale":-4}
+
+For more information on Ex Nihilo and the machanics of the mod, check out thier wiki:
+{"text":"§3Ex Nihilo Wiki", "click":{"type":"url", "data":"http://ftbwiki.org/Ex_Nihilo"}}
+
+
+

@@ -1,0 +1,43 @@
+§2§lYour first Mana
+
+Botania is where the magic adventure kicks off.  So gather a few Botania flowers and make the petal apothecary.
+It may be worth the time to get the Agricraft versions of the Botania flowers, but that is not required.
+
+Apothecary:
+
+{"image":"petal.png", "scale":-3}
+
+Then make your pure daisies,  if you still need a bucket to get water into it see getting the bucket.
+
+{"image":"puredaisy.png", "scale":-3}
+
+From here it is fairly basic progression as normal start of Botania, but here is is for reference:
+
+{"image":"livingwood.png", "scale":-3}
+{"image":"livingrock.png", "scale":-3}
+
+Diluted Mana pool:
+
+{"image":"dmanapool.png", "scale":-3}
+
+Then some basic generating flora:
+
+{"image":"daybloom.png", "scale":-3}
+{"image":"nightshade.png", "scale":-3}
+
+Then a regular mana pool:
+
+{"image":"manapool.png", "scale":-3}
+
+Once you have that initial setup, then we would want to increase that mana generation with some endoflames:
+
+{"image":"endoflame.png", "scale":-3}
+
+Then you can start producing your mana items (pearls/steel/glass) which you will need for many other magic recipes.
+
+Note: Manasteel can be made from either steel or iron, however iron is double the mana cost:
+
+{"image":"manasteel1.png", "scale":-3}
+{"image":"manasteel2.png", "scale":-3}
+
+Now you have the basics you will need to start the magic adventure!

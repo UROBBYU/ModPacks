@@ -1,0 +1,24 @@
+§2§lEnd Game Goals
+
+So where does all this lead to?
+
+Well Applied Energistics is very end game in Expert Mode.  You will need to craft the wrench in order to get into AE2.
+And lots of Iridium for that:
+
+{"image":"iridium.png", "scale":-3}
+
+And even further recipes will require the extreme crafting table:
+
+{"image":"ingot.png", "scale":-3}
+{"image":"diretable.png", "scale":-3}
+
+And then you can make that angel ring:
+
+{"image":"angel.png", "scale":-3}
+
+And even creative cells and tanks:
+
+{"image":"cell.png", "scale":-3}
+{"image":"tank.png", "scale":-3}
+
+Have fun!
